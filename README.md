@@ -166,10 +166,10 @@
 ## 📊 ctOS Network Telemetry & GitHub Highlights
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=HarrisonWellsRUNBarryRUN&theme=tokyonight&background=070a0e&stroke=1e293b&ring=ff0033&fire=ff0033&currStreakNum=ff0033" alt="HarrisonWellsRUNBarryRUN Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=DrWellsy&theme=tokyonight&background=070a0e&stroke=1e293b&ring=ff0033&fire=ff0033&currStreakNum=ff0033" alt="HarrisonWellsRUNBarryRUN Streak Stats" />
   <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=HarrisonWellsRUNBarryRUN&style=flat-square&color=ff0033&label=TERMINAL_VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/HarrisonWellsRUNBarryRUN?style=flat-square&logo=github&label=OPERATIVES&color=1e293b" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=DrWellsy&style=flat-square&color=ff0033&label=TERMINAL_VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/DrWellsy?style=flat-square&logo=github&label=OPERATIVES&color=1e293b" alt="GitHub followers" />
 </div>
 
 <p align="center">
