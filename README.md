@@ -1,14 +1,14 @@
 <div align="center">
 
   <!-- S.T.A.R. Labs Vector Header with Matrix Rain -->
-  <a href="https://github.com/HarrisonWellsRUNBarryRUN">
+  <a href="https://github.com/DrWellsy">
     <img src="assets/ctos_banner.svg" alt="ctOS v2.0 // S.T.A.R. LABS — ARDA" width="100%" />
   </a>
 
   <br /><br />
 
   <!-- Animated Harrison Wells ctOS Profiler -->
-  <a href="https://github.com/HarrisonWellsRUNBarryRUN">
+  <a href="https://github.com/DrWellsy">
     <img src="assets/ctos_harrison_wells.gif" width="130" alt="Dr. Harrison Wells // ctOS Profiler" />
   </a>
 
@@ -166,7 +166,7 @@
 ## 📊 ctOS Network Telemetry & GitHub Highlights
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=DrWellsy&theme=tokyonight&background=070a0e&stroke=1e293b&ring=ff0033&fire=ff0033&currStreakNum=ff0033" alt="HarrisonWellsRUNBarryRUN Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=DrWellsy&theme=tokyonight&background=070a0e&stroke=1e293b&ring=ff0033&fire=ff0033&currStreakNum=ff0033" alt="DrWellsy Streak Stats" />
   <br /><br />
   <img src="https://komarev.com/ghpvc/?username=DrWellsy&style=flat-square&color=ff0033&label=TERMINAL_VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/DrWellsy?style=flat-square&logo=github&label=OPERATIVES&color=1e293b" alt="GitHub followers" />
